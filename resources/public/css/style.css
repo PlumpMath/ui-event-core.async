@@ -1,0 +1,25 @@
+/* some style */
+body: {
+  text-align: center;
+  margin: 0 auto;
+}
+
+#app {
+  text-align: center;
+}
+
+h1 {
+  font-size: 2rem;
+  font-family: Courier;
+}
+
+#field {
+  background-color: #dddddd;
+  width: 500px;
+  height: 300px;
+  margin: 0 auto;
+}
+
+#field.on-mousemove {
+  background-color: salmon;
+}
