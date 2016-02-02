@@ -1,6 +1,6 @@
-# ui-event
+# UI event handling using core.async
 
-Trying out this article ["core. async in the browser is sweet"](http://ku1ik.com/2015/10/12/sweet-core-async.html)
+Trying out this article ["core. async in the browser is sweet"](http://ku1ik.com/2015/10/12/sweet-core-async.html) by Marcin Kulik.
 
 Using core.async for event handling is quite nice!
 
